@@ -2,7 +2,7 @@
 
 - **Contest Id:** 2275
 - **Problem Link:** [Problem B](https://codeforces.com/contest/2275/problem/B)
-- **Difficulty:** Easy 
+- **Difficulty:** B
 
 ---
 
